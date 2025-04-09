@@ -1,0 +1,7 @@
+com\example\SampleJPAREST\router\buildRouter.class
+com\example\SampleJPAREST\service\SampleService.class
+com\example\SampleJPAREST\entities\Samples.class
+com\example\SampleJPAREST\controller\SampleController.class
+com\example\SampleJPAREST\SampleJpaRestApplication.class
+com\example\SampleJPAREST\query\QueryConstant.class
+com\example\SampleJPAREST\repository\SampleRepo.class
